@@ -1,3 +1,2 @@
 # hello-world
-for test
-myself
+what
